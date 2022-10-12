@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32708.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITEC140-WageCalculator", "ITEC140-WageCalculator\ITEC140-WageCalculator.csproj", "{737CA901-C4E8-43D0-824D-9D2817A134EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "TestProject1\TestProject1.csproj", "{20092E8F-9975-414A-B689-FBF2855C5BD9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{737CA901-C4E8-43D0-824D-9D2817A134EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{737CA901-C4E8-43D0-824D-9D2817A134EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{737CA901-C4E8-43D0-824D-9D2817A134EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{737CA901-C4E8-43D0-824D-9D2817A134EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20092E8F-9975-414A-B689-FBF2855C5BD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20092E8F-9975-414A-B689-FBF2855C5BD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20092E8F-9975-414A-B689-FBF2855C5BD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20092E8F-9975-414A-B689-FBF2855C5BD9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51D59405-7FCB-448B-852F-C5829A62EB23}
+	EndGlobalSection
+EndGlobal

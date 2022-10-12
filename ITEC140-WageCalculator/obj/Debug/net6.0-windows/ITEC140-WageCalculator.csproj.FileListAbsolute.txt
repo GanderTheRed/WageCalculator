@@ -1,0 +1,17 @@
+C:\Users\thomas.gander\Source\Repos\MedicineHatCollege\itec140-a03-r1-GanderTheRed\ITEC140-WageCalculator\bin\Debug\net6.0-windows\ITEC140-WageCalculator.exe
+C:\Users\thomas.gander\Source\Repos\MedicineHatCollege\itec140-a03-r1-GanderTheRed\ITEC140-WageCalculator\bin\Debug\net6.0-windows\ITEC140-WageCalculator.deps.json
+C:\Users\thomas.gander\Source\Repos\MedicineHatCollege\itec140-a03-r1-GanderTheRed\ITEC140-WageCalculator\bin\Debug\net6.0-windows\ITEC140-WageCalculator.runtimeconfig.json
+C:\Users\thomas.gander\Source\Repos\MedicineHatCollege\itec140-a03-r1-GanderTheRed\ITEC140-WageCalculator\bin\Debug\net6.0-windows\ITEC140-WageCalculator.dll
+C:\Users\thomas.gander\Source\Repos\MedicineHatCollege\itec140-a03-r1-GanderTheRed\ITEC140-WageCalculator\bin\Debug\net6.0-windows\ITEC140-WageCalculator.pdb
+C:\Users\thomas.gander\Source\Repos\MedicineHatCollege\itec140-a03-r1-GanderTheRed\ITEC140-WageCalculator\obj\Debug\net6.0-windows\ITEC140-WageCalculator.csproj.AssemblyReference.cache
+C:\Users\thomas.gander\Source\Repos\MedicineHatCollege\itec140-a03-r1-GanderTheRed\ITEC140-WageCalculator\obj\Debug\net6.0-windows\ITEC140_WageCalculator.frmPayCalculator.resources
+C:\Users\thomas.gander\Source\Repos\MedicineHatCollege\itec140-a03-r1-GanderTheRed\ITEC140-WageCalculator\obj\Debug\net6.0-windows\ITEC140-WageCalculator.csproj.GenerateResource.cache
+C:\Users\thomas.gander\Source\Repos\MedicineHatCollege\itec140-a03-r1-GanderTheRed\ITEC140-WageCalculator\obj\Debug\net6.0-windows\ITEC140-WageCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thomas.gander\Source\Repos\MedicineHatCollege\itec140-a03-r1-GanderTheRed\ITEC140-WageCalculator\obj\Debug\net6.0-windows\ITEC140-WageCalculator.AssemblyInfoInputs.cache
+C:\Users\thomas.gander\Source\Repos\MedicineHatCollege\itec140-a03-r1-GanderTheRed\ITEC140-WageCalculator\obj\Debug\net6.0-windows\ITEC140-WageCalculator.AssemblyInfo.cs
+C:\Users\thomas.gander\Source\Repos\MedicineHatCollege\itec140-a03-r1-GanderTheRed\ITEC140-WageCalculator\obj\Debug\net6.0-windows\ITEC140-WageCalculator.csproj.CoreCompileInputs.cache
+C:\Users\thomas.gander\Source\Repos\MedicineHatCollege\itec140-a03-r1-GanderTheRed\ITEC140-WageCalculator\obj\Debug\net6.0-windows\ITEC140-WageCalculator.dll
+C:\Users\thomas.gander\Source\Repos\MedicineHatCollege\itec140-a03-r1-GanderTheRed\ITEC140-WageCalculator\obj\Debug\net6.0-windows\refint\ITEC140-WageCalculator.dll
+C:\Users\thomas.gander\Source\Repos\MedicineHatCollege\itec140-a03-r1-GanderTheRed\ITEC140-WageCalculator\obj\Debug\net6.0-windows\ITEC140-WageCalculator.pdb
+C:\Users\thomas.gander\Source\Repos\MedicineHatCollege\itec140-a03-r1-GanderTheRed\ITEC140-WageCalculator\obj\Debug\net6.0-windows\ITEC140-WageCalculator.genruntimeconfig.cache
+C:\Users\thomas.gander\Source\Repos\MedicineHatCollege\itec140-a03-r1-GanderTheRed\ITEC140-WageCalculator\obj\Debug\net6.0-windows\ref\ITEC140-WageCalculator.dll
